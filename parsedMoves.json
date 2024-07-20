@@ -1,0 +1,259 @@
+[
+  {
+    "id": "m0",
+    "number": "",
+    "name": "",
+    "player": "",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "commentary": "",
+    "styles": {},
+    "arrows": [],
+    "sub_variation": []
+  },
+  {
+    "id": "m1",
+    "number": 1,
+    "name": "e4",
+    "player": "w",
+    "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1",
+    "commentary": "",
+    "styles": {},
+    "arrows": [],
+    "sub_variation": []
+  },
+  {
+    "id": "m2",
+    "number": 1,
+    "name": "e5",
+    "player": "b",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+    "commentary": "",
+    "styles": {},
+    "arrows": [],
+    "sub_variation": [
+      [
+        {
+          "id": "m2-s1-1",
+          "number": 1,
+          "name": "c5",
+          "player": "b",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+          "commentary": "",
+          "styles": {},
+          "arrows": [],
+          "sub_variation": []
+        },
+        {
+          "id": "m2-s1-2",
+          "number": 2,
+          "name": "Nf3",
+          "player": "w",
+          "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2",
+          "commentary": "",
+          "styles": {},
+          "arrows": [],
+          "sub_variation": []
+        },
+        {
+          "id": "m2-s1-3",
+          "number": 2,
+          "name": "d6",
+          "player": "b",
+          "fen": "rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+          "commentary": "",
+          "styles": {},
+          "arrows": [],
+          "sub_variation": []
+        },
+        {
+          "id": "m2-s1-4",
+          "number": 3,
+          "name": "d4",
+          "player": "w",
+          "fen": "rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3",
+          "commentary": "",
+          "styles": {},
+          "arrows": [],
+          "sub_variation": [
+            [
+              {
+                "id": "m2-s2-1",
+                "number": 3,
+                "name": "Nc3",
+                "player": "w",
+                "fen": "rnbqkbnr/pp2pppp/3p4/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3",
+                "commentary": "",
+                "styles": {},
+                "arrows": [],
+                "sub_variation": []
+              },
+              {
+                "id": "m2-s2-2",
+                "number": 3,
+                "name": "Nf6",
+                "player": "b",
+                "fen": "rnbqkb1r/pp2pppp/3p1n2/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4",
+                "commentary": "",
+                "styles": {},
+                "arrows": [],
+                "sub_variation": []
+              },
+              {
+                "id": "m2-s2-3",
+                "number": 4,
+                "name": "Bc4",
+                "player": "w",
+                "fen": "rnbqkb1r/pp2pppp/3p1n2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 4",
+                "commentary": "",
+                "styles": {},
+                "arrows": [],
+                "sub_variation": [
+                  [
+                    {
+                      "id": "m2-s3-1",
+                      "number": 4,
+                      "name": "d4",
+                      "player": "w",
+                      "fen": "rnbqkb1r/pp2pppp/3p1n2/2p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 4",
+                      "commentary": "",
+                      "styles": {},
+                      "arrows": [],
+                      "sub_variation": []
+                    }
+                  ]
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "id": "m3",
+    "number": 2,
+    "name": "Nf3",
+    "player": "w",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2",
+    "commentary": "",
+    "styles": {},
+    "arrows": [],
+    "sub_variation": []
+  },
+  {
+    "id": "m4",
+    "number": 2,
+    "name": "Nf6",
+    "player": "b",
+    "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+    "commentary": "",
+    "styles": {},
+    "arrows": [],
+    "sub_variation": []
+  },
+  {
+    "id": "m5",
+    "number": 3,
+    "name": "Nxe5",
+    "player": "w",
+    "fen": "rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3",
+    "commentary": "",
+    "styles": {},
+    "arrows": [],
+    "sub_variation": [
+      [
+        {
+          "id": "m5-s1-1",
+          "number": 3,
+          "name": "Nc3",
+          "player": "w",
+          "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3",
+          "commentary": "",
+          "styles": {},
+          "arrows": [],
+          "sub_variation": []
+        },
+        {
+          "id": "m5-s1-2",
+          "number": 3,
+          "name": "Bc5",
+          "player": "b",
+          "fen": "rnbqk2r/pppp1ppp/5n2/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4",
+          "commentary": "",
+          "styles": {},
+          "arrows": [],
+          "sub_variation": []
+        },
+        {
+          "id": "m5-s1-3",
+          "number": 4,
+          "name": "Bc4",
+          "player": "w",
+          "fen": "rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4",
+          "commentary": "",
+          "styles": {},
+          "arrows": [],
+          "sub_variation": []
+        },
+        {
+          "id": "m5-s1-4",
+          "number": 4,
+          "name": "d6",
+          "player": "b",
+          "fen": "rnbqk2r/ppp2ppp/3p1n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5",
+          "commentary": "",
+          "styles": {},
+          "arrows": [],
+          "sub_variation": [
+            [
+              {
+                "id": "m5-s2-1",
+                "number": 4,
+                "name": "O-O",
+                "player": "b",
+                "fen": "rnbq1rk1/pppp1ppp/5n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQ - 6 5",
+                "commentary": "",
+                "styles": {},
+                "arrows": [],
+                "sub_variation": []
+              },
+              {
+                "id": "m5-s2-2",
+                "number": 5,
+                "name": "O-O",
+                "player": "w",
+                "fen": "rnbq1rk1/pppp1ppp/5n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b - - 7 5",
+                "commentary": "",
+                "styles": {},
+                "arrows": [],
+                "sub_variation": []
+              }
+            ]
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "id": "m6",
+    "number": 3,
+    "name": "d6",
+    "player": "b",
+    "fen": "rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "commentary": "",
+    "styles": {},
+    "arrows": [],
+    "sub_variation": []
+  },
+  {
+    "id": "m7",
+    "number": 4,
+    "name": "Nf3",
+    "player": "w",
+    "fen": "rnbqkb1r/ppp2ppp/3p1n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 4",
+    "commentary": "",
+    "styles": {},
+    "arrows": [],
+    "sub_variation": []
+  }
+]

@@ -1,0 +1,42 @@
+.node_modules# Node.js modules
+node_modules/
+
+# Log files
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# MacOS Finder metadata
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE/Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Package lock files (if you want to ignore lock files, otherwise remove this line)
+package-lock.json
+yarn.lock
+
+# npm package
+npm-debug.log*
